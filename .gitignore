@@ -1,0 +1,14 @@
+# Compiler outputs #
+*.a
+*.bat
+*.exe
+
+# Directories #
+API_Parser_Output
+Obj
+.idea
+
+# Packages #
+*.gz
+*.iso
+*.jar
